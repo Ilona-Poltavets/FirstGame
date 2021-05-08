@@ -1,0 +1,4 @@
+Player - score
+cat - 1300
+dog - 0
+tester - 11200

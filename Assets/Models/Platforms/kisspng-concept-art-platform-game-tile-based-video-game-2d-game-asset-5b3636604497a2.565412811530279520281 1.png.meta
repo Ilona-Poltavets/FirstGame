@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 1a66d317a335a5d48ab3b223959b591d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8303545904400639743
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_0
+  - first:
+      213: 976652852458221096
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_1
+  - first:
+      213: -7573308200891070146
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_2
+  - first:
+      213: 3825167844805983341
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_3
+  - first:
+      213: 7753475675655461382
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_4
+  - first:
+      213: 4856952760040497417
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_5
+  - first:
+      213: 4057276153321983275
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_6
+  - first:
+      213: -2554596350196490737
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_7
+  - first:
+      213: 3924792233762497942
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_8
+  - first:
+      213: -3575709598421997979
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_9
+  - first:
+      213: -3341414394313311687
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_10
+  - first:
+      213: 3479965506378140299
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_11
+  - first:
+      213: -5053389305987251252
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_12
+  - first:
+      213: 2189342650679781763
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_13
+  - first:
+      213: 3580776587263459105
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_14
+  - first:
+      213: 4126018296985290990
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_15
+  - first:
+      213: 3602019131329976743
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_16
+  - first:
+      213: 6243039288184587876
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_17
+  - first:
+      213: 5425734768295084543
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_18
+  - first:
+      213: 1738379754346859336
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_19
+  - first:
+      213: 1170213361237788896
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_20
+  - first:
+      213: 1225623014980789678
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_21
+  - first:
+      213: 5073930045300949811
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_22
+  - first:
+      213: -1832531204689701552
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_23
+  - first:
+      213: -8718375846308009103
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_24
+  - first:
+      213: 1982424133838469393
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_25
+  - first:
+      213: -550410564401248460
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_26
+  - first:
+      213: -3308905228915736786
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_27
+  - first:
+      213: 2344180699713734355
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_28
+  - first:
+      213: 4738264743484005427
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_29
+  - first:
+      213: -7231127654820516836
+    second: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 271
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109dc087ef0e3cc80800000000000000
+      internalID: -8303545904400639743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 271
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee4a34894cd8d00800000000000000
+      internalID: 976652852458221096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 271
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c55ff05436e690800000000000000
+      internalID: -7573308200891070146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 271
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c38e363e9b51530800000000000000
+      internalID: 3825167844805983341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 288
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a531e1c01e99b60800000000000000
+      internalID: 7753475675655461382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 289
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90121115dcc576340800000000000000
+      internalID: 4856952760040497417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 289
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d8b624a275e4830800000000000000
+      internalID: 4057276153321983275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 317
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e570287204c8cd0800000000000000
+      internalID: -2554596350196490737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 290
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69520aefdb9a77630800000000000000
+      internalID: 3924792233762497942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 290
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5662a1ea017806ec0800000000000000
+      internalID: -3575709598421997979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_10
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 274
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af39bdf49e0a1d0800000000000000
+      internalID: -3341414394313311687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 187
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a084eb0325b4030800000000000000
+      internalID: 3479965506378140299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 187
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc34fd04331ced9b0800000000000000
+      internalID: -5053389305987251252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 187
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38961698a8b126e10800000000000000
+      internalID: 2189342650679781763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 187
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fbfd7955971b130800000000000000
+      internalID: 3580776587263459105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 94
+        width: 170
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee80290d7cf824930800000000000000
+      internalID: 4126018296985290990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_16
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 94
+        width: 170
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9951dc051fcf130800000000000000
+      internalID: 3602019131329976743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 101
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466cc03d72bb3a650800000000000000
+      internalID: 6243039288184587876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 101
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff107b566051c4b40800000000000000
+      internalID: 5425734768295084543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 101
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b439e1d27ff1810800000000000000
+      internalID: 1738379754346859336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 101
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e88efb1ade6d3010800000000000000
+      internalID: 1170213361237788896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 101
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5297473a9420110800000000000000
+      internalID: 1225623014980789678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333485d4e783a6640800000000000000
+      internalID: 5073930045300949811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 39
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d6a8149a8196e0800000000000000
+      internalID: -1832531204689701552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 39
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b27761c5b120780800000000000000
+      internalID: -8718375846308009103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 39
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1197a931f3cf28b10800000000000000
+      internalID: 1982424133838469393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 18
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437cd34028c8c58f0800000000000000
+      internalID: -550410564401248460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 27
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7b03c9386412d0800000000000000
+      internalID: -3308905228915736786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_28
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 26
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d683c72de3388020800000000000000
+      internalID: 2344180699713734355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_29
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 33
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c1f170ea2b1c140800000000000000
+      internalID: 4738264743484005427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-concept-art-platform-game-tile-based-video-game-2d-game-asset-5b3636604497a2.565412811530279520281_30
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 33
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6be8c5bfd5ab90800000000000000
+      internalID: -7231127654820516836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

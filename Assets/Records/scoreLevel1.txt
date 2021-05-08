@@ -1,0 +1,11 @@
+Player - score
+MISTIK - 20700
+ilona - 20700
+IP - 19800
+dog - 5300
+try - 4700
+user - 4100
+bull - 3800
+name - 3700
+cat - 3500
+tester - 10000
