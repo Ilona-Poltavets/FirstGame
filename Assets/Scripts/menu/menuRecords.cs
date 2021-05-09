@@ -6,14 +6,12 @@ using System.Collections.Generic;
 
 public class menuRecords : MonoBehaviour
 {
-    private string path = "Assets/Records";
     public string nameFile;
-
     public Text fromFile;
 
     public void read()
     {
-        StreamReader sr = new StreamReader(path + "/" + nameFile);
+        StreamReader sr = new StreamReader(Application.dataPath + "/" + nameFile);
         List<string> list = new List<string>();
         string str;
         while ((str = sr.ReadLine()) != null)
